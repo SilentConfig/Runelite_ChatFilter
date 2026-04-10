@@ -226,3 +226,7 @@ trade.*?accepted.*?with.*?for
 [ãñõÃÑØøÕ]
 [äëïöüÿÄËÏÖÜŸ]
 [ÐæÆœŒçÇß«»°·]
+
+(?# Give Cookie Additions)
+(?i).*?discord\.gg/highsteaks.*
+(?i)open\s+a\s+support\s+ticket
