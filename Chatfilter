@@ -231,3 +231,4 @@ trade.*?accepted.*?with.*?for
 (?i).*?discord\.gg/highsteaks.*
 (?i)open\s+a\s+support\s+ticket
 (?i)offering\s+much
+(?i)\bbuy(ing)?\s+(tbow|twisted bow)\b.*?\boffer(ing)?\b.*\b(a\s*lot|alot|lots?)\b
