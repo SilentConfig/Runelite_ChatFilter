@@ -232,5 +232,5 @@ trade.*?accepted.*?with.*?for
 (?i)open\s+a\s+support\s+ticket
 (?i)offering\s+much
 (?i)offering\s+alot
-(?i)one\s+tick\s+my\s+plateskirt\s+off
-(?i)onlyfans\s+l\s+s\+ellapog
+(?i)one.tick.my.plateskirt.off
+(?i)onlyfans.l.s\+ellapog
