@@ -235,4 +235,9 @@ trade.*?accepted.*?with.*?for
 (?i)\#1 casino\b
 (?i)\bprovably fair\b
 Roll.*?over.*?55
-(?i)search\s*y[o0]utub[e3]
+(?i)g\s?maul\s+me\s+against\s+the\s+wall
+(?i)onlyfans.*?s\+ellapog
+(?i)s\+ellapog
+(?i)search\s*(on\s*)?y[o0]utub[e3]:?\s*\w+
+(?i)farewell\s*event.*?(\d+[bm]|bank)
+(?i)\d+[bm]\/player
