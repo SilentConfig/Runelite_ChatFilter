@@ -241,3 +241,6 @@ Roll.*?over.*?55
 (?i)search\s*(on\s*)?y[o0]utub[e3]:?\s*\w+
 (?i)farewell\s*event.*?(\d+[bm]|bank)
 (?i)\d+[bm]\/player
+^$
+^\s+$
+(?i)tried to do something (very )?silly!
